@@ -1,4 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=heyitspuru&color=e85d04&style=flat)
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/fe85fc13-bf2a-4a54-8bfa-91dca1196e41" />
 
 <samp>
   <a href="https://dhama.tech/">portfolio</a>  •
