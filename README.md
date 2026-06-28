@@ -13,7 +13,8 @@ Cloud · ML · Java · Python · Context Engineering · Agentic AI · Published 
 |---|---|
 | Cloud | AWS · Azure |
 | ML / AI | PyTorch · TensorFlow · XGBoost · Streamlit |
-| Languages | Python · TypeScript · SQL |
+| Backend | Spring Boot · Java · PostgreSQL |
+| Frontend | Next.js · TypeScript · Tailwind |
 
 ---
 
@@ -22,11 +23,11 @@ Cloud · ML · Java · Python · Context Engineering · Agentic AI · Published 
 | repo | what it does | stack |
 |------|-------------|-------|
 | [AZURE-CLOUD](https://github.com/heyitspuru/AZURE-CLOUD) | hands-on Azure labs — compute, networking, identity, security | `Azure` `IaC` |
+| [Companion](https://github.com/heyitspuru/Companion) | gamified accountability platform · social circles · live leaderboard · [live →](https://companion-lime.vercel.app) | `Next.js` `Spring Boot` `Azure` `PostgreSQL` |
 | [Yapo](https://github.com/heyitspuru/Yapo) | serverless blog on AWS · Lambda · Cognito · Polly · Translate | `AWS` `Serverless` |
 | [Bottlelineclassification](https://github.com/heyitspuru/Bottlelineclassification) | CNN + MobileNetV2 · ~98% accuracy · IEEE published | `PyTorch` `CNN` |
 | [malware-detection](https://github.com/heyitspuru/malware-detection) | XGBoost static malware classifier · ~93% accuracy · Streamlit demo | `XGBoost` `Streamlit` |
-| [Lexx](https://github.com/heyitspuru/Lexx) | AI-powered app built with TypeScript | `TypeScript` `AI` |
-| [portfolio](https://github.com/heyitspuru/portfolio) | personal portfolio → [dhama.tech](https://dhama.tech) | `web` |
+| [portfolio](https://github.com/heyitspuru/portfolio) | personal portfolio site → [dhama.tech](https://dhama.tech) | `HTML` |
 
 ---
 
