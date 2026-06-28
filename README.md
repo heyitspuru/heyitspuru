@@ -1,46 +1,42 @@
-![](https://komarev.com/ghpvc/?username=heyitspuru&color=e85d04&style=flat)
-<img width="2520" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/1248f361-8d11-45ff-8a45-276b083932f8" />
+<img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/1248f361-8d11-45ff-8a45-276b083932f8" />
 
+### Puru Raj Dhama
+Cloud & ML Engineer · AWS · Azure · Published IEEE Author
 
-<samp>
-  <a href="https://dhama.tech/">portfolio</a>  •
-  <a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/">linkedin</a>  •
-  <a href="https://leetcode.com/u/Raj_0106/">leetcode</a>  •
-  <a href="https://x.com/Dhama_16/">x/twitter</a>  •
-  <a href="mailto:pururajdhama2004@gmail.com">email</a>
-</samp>
-
-<br>
+<a href="https://dhama.tech/">portfolio</a> · <a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/">linkedin</a> · <a href="https://leetcode.com/u/Raj_0106/">leetcode</a> · <a href="https://x.com/Dhama_16/">x/twitter</a> · <a href="mailto:pururajdhama2004@gmail.com">email</a>
 
 ---
 
-### projects
+**stack**
 
-| repo | what it does |
-|------|-------------|
-| [AZURE-CLOUD](https://github.com/heyitspuru/AZURE-CLOUD) | hands-on azure labs — compute, networking, identity, security |
-| [Yapo](https://github.com/heyitspuru/Yapo) | serverless blog on AWS · lambda · cognito · polly · translate |
-| [Bottlelineclassification](https://github.com/heyitspuru/Bottlelineclassification) | CNN + MobileNetV2 · ~98% accuracy · published in IEEE |
-| [malware-detection](https://github.com/heyitspuru/malware-detection) | XGBoost static malware classifier · ~93% accuracy · streamlit demo |
-| [Lexx](https://github.com/heyitspuru/Lexx) | AI-powered app built with TypeScript |
-| [portfolio](https://github.com/heyitspuru/portfolio) | personal portfolio site → [dhama.tech](https://dhama.tech) |
+| | |
+|---|---|
+| Cloud | AWS · Azure |
+| ML / AI | PyTorch · TensorFlow · XGBoost · Streamlit |
+| Languages | Python · TypeScript · SQL |
 
 ---
 
-### research
+**projects**
+
+| repo | what it does | stack |
+|------|-------------|-------|
+| [AZURE-CLOUD](https://github.com/heyitspuru/AZURE-CLOUD) | hands-on Azure labs — compute, networking, identity, security | `Azure` `IaC` |
+| [Yapo](https://github.com/heyitspuru/Yapo) | serverless blog on AWS · Lambda · Cognito · Polly · Translate | `AWS` `Serverless` |
+| [Bottlelineclassification](https://github.com/heyitspuru/Bottlelineclassification) | CNN + MobileNetV2 · ~98% accuracy · IEEE published | `PyTorch` `CNN` |
+| [malware-detection](https://github.com/heyitspuru/malware-detection) | XGBoost static malware classifier · ~93% accuracy · Streamlit demo | `XGBoost` `Streamlit` |
+| [Lexx](https://github.com/heyitspuru/Lexx) | AI-powered app built with TypeScript | `TypeScript` `AI` |
+| [portfolio](https://github.com/heyitspuru/portfolio) | personal portfolio → [dhama.tech](https://dhama.tech) | `web` |
+
+---
+
+**research · IEEE**
 
 - [Automated Detection of Bottle Fill Levels Using CNN and MobileNetV2](https://ieeexplore.ieee.org/document/11346145) — IEEE 2025
 - [Serverless Deployment of an Ensemble ML Model for Diabetes Prediction](https://ieeexplore.ieee.org/document/11386619) — AECE · IEEE 2025
 
 ---
 
-<details>
-  <summary><b>contribution stats</b></summary>
-  <br>
+**stats**
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyitspuru&theme=default)
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitspuru&theme=apprentice)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heyitspuru&theme=apprentice&utcOffset=5.5)
-
-</details>
+![](https://github-readme-stats.vercel.app/api?username=heyitspuru&show_icons=true&theme=default&hide_border=true&count_private=true)
