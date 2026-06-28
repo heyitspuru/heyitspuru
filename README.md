@@ -1,7 +1,7 @@
 <img width="2520" height="690" alt="github-header-banner" src="https://github.com/user-attachments/assets/1248f361-8d11-45ff-8a45-276b083932f8" />
 
 ### Puru Raj Dhama
-Cloud & ML Engineer · AWS · Azure · Published IEEE Author
+Cloud · ML · Java · Python · Context Engineering · Agentic AI · Published IEEE Author
 
 <a href="https://dhama.tech/">portfolio</a> · <a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/">linkedin</a> · <a href="https://leetcode.com/u/Raj_0106/">leetcode</a> · <a href="https://x.com/Dhama_16/">x/twitter</a> · <a href="mailto:pururajdhama2004@gmail.com">email</a>
 
