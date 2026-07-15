@@ -22,7 +22,7 @@
 
 <br/>
 
-## 🧡 Stack
+## 📚 Stack
 
 <div align="center">
 
