@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" alt="banner" src="<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/f86a2010-a016-46d0-9419-45cebadd25f1" />
-" />
-
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/f86a2010-a016-46d0-9419-45cebadd25f1" />
 <br/>
 
 # Puru Raj Dhama
