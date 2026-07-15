@@ -1,51 +1,27 @@
-![](https://komarev.com/ghpvc/?username=heyitspuru&color=e76f51&style=flat-square)
+<div align="center">
 
-<table border="0">
-<tr>
-<td width="58%" valign="top">
-
-![banner](https://github.com/user-attachments/assets/1248f361-8d11-45ff-8a45-276b083932f8)
-
-</td>
-<td width="42%" valign="middle">
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/f86a2010-a016-46d0-9419-45cebadd25f1" />
+<br/>
 
 # Puru Raj Dhama
 
-**portfolio -> [dhama.tech](https://dhama.tech/)**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=E76F51&center=true&vCenter=true&width=650&lines=Cloud+%C2%B7+ML+%C2%B7+Java+%C2%B7+Python;Context+Engineering+%C2%B7+Agentic+AI;Published+IEEE+Author" alt="Typing SVG" />
 
-- Cloud · ML · Java · Python · Context Engineering · Agentic AI
-- built across **6+ projects** — Azure/AWS cloud labs, CNN & XGBoost ML models, full-stack apps (Next.js + Spring Boot)
-- **published IEEE author**, twice over
-  <details><summary>papers</summary>
-
-  - <a href="https://ieeexplore.ieee.org/document/11346145">Bottle Fill Level Detection — CNN + MobileNetV2</a>, IEEE 2025
-  - <a href="https://ieeexplore.ieee.org/document/11386619">Serverless Diabetes Prediction Ensemble</a>, AECE · IEEE 2025
-
-  </details>
-- mail me - [pururajdhama2004@gmail.com](mailto:pururajdhama2004@gmail.com)
-
-</td>
-</tr>
-</table>
-
-<samp><a href="https://dhama.tech/">portfolio</a> · <a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/">linkedin</a> · <a href="https://x.com/Dhama_16/">x</a> · <a href="https://leetcode.com/u/Raj_0106/">leetcode</a></samp>
-
-<br>
-
-<details>
-<summary><b>contribution stats</b></summary>
-<br>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heyitspuru&theme=gruvbox)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heyitspuru&theme=gruvbox)
-
-</details>
+<p>
+  <a href="https://dhama.tech/"><img src="https://img.shields.io/badge/Portfolio-E76F51?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/"><img src="https://img.shields.io/badge/LinkedIn-264653?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/Raj_0106/"><img src="https://img.shields.io/badge/LeetCode-F4A261?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+  <a href="https://x.com/Dhama_16/"><img src="https://img.shields.io/badge/X%20%2F%20Twitter-E9C46A?style=for-the-badge&logo=x&logoColor=264653" alt="X"/></a>
+  <a href="mailto:pururajdhama2004@gmail.com"><img src="https://img.shields.io/badge/Email-264653?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
 <img src="https://capsule-render.com/api?type=rect&color=0:E76F51,50:F4A261,100:E9C46A&height=4&width=100%25" width="100%"/>
 
+</div>
+
 <br/>
 
-## 🧡 Stack
+## 📚 Stack
 
 <div align="center">
 
