@@ -4,7 +4,7 @@
 <tr>
 <td width="58%" valign="top">
 
-![](./assets/banner.png)
+![](https://github.com/user-attachments/assets/9b26575d-79c6-4d87-8998-3057bcd6cab1)
 
 </td>
 <td width="42%" valign="middle">
