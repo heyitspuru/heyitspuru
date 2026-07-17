@@ -24,43 +24,6 @@
 
 <br>
 
-## About
-
-Computer Science student building at the intersection of **Cloud**, **Machine Learning**, and **Backend Engineering**.
-I like shipping scalable systems, experimenting with AI agents, and turning research into things that actually run in production.
-
-<br>
-
-## Featured Projects
-
-**🚀 Companion**
-Gamified accountability platform — **Next.js**, **Spring Boot**, **Azure**, **PostgreSQL**.
-🔗 [github.com/heyitspuru/Companion](https://github.com/heyitspuru/Companion)
-
-**☁️ Azure Cloud Labs**
-Hands-on Azure implementations covering networking, compute, storage, identity, and security.
-🔗 [github.com/heyitspuru/AZURE-CLOUD](https://github.com/heyitspuru/AZURE-CLOUD)
-
-**📝 Yapo**
-Serverless blogging platform powered by **AWS Lambda**, **Cognito**, **Polly**, and **Translate**.
-🔗 [github.com/heyitspuru/Yapo](https://github.com/heyitspuru/Yapo)
-
-**🧠 Bottle Fill Classification**
-CNN + MobileNetV2 image classifier hitting ~98% accuracy. Published with IEEE.
-🔗 [github.com/heyitspuru/Bottlelineclassification](https://github.com/heyitspuru/Bottlelineclassification)
-
-**🛡️ Malware Detection**
-Static malware classifier using **XGBoost**, wrapped in an interactive Streamlit app.
-🔗 [github.com/heyitspuru/malware-detection](https://github.com/heyitspuru/malware-detection)
-
-<details>
-<summary>more / older builds</summary>
-<br>
-happy to share earlier prototypes and coursework projects on request — just reach out via mail or LinkedIn.
-</details>
-
-<br>
-
 ## Tech Stack
 
 ```text
