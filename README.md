@@ -1,130 +1,96 @@
-<p align="center">
-  <img src=<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/b58d4c98-8842-4294-84dd-459efc19a30f" />
-</p>
+![](https://komarev.com/ghpvc/?username=heyitspuru&color=blue&style=flat-square)
 
-<h1 align="center">Hey! I'm Puru Raj Dhama</h1>
+<table border="0">
+<tr>
+<td width="58%" valign="top">
 
-<p align="center">
-Cloud • Machine Learning • Java • Python
-</p>
+![](./assets/banner.png)
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=500&size=18&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=520&lines=Context+Engineering;Agentic+AI;Published+IEEE+Author;Building+Cloud+Native+Systems" />
-</p>
+</td>
+<td width="42%" valign="middle">
 
-<p align="center">
-<a href="https://dhama.tech/">Website</a>
-&nbsp;·&nbsp;
-<a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://leetcode.com/u/Raj_0106/">LeetCode</a>
-&nbsp;·&nbsp;
-<a href="https://x.com/Dhama_16/">X</a>
-&nbsp;·&nbsp;
-<a href="mailto:pururajdhama2004@gmail.com">Email</a>
-</p>
+**portfolio -> [https://dhama.tech/](https://dhama.tech/)**
 
----
+- Computer Science student building at the intersection of **Cloud**, **Machine Learning**, and **Backend Engineering**
+- shipped **5+ projects** — cloud-native systems, AI agents, and 2 published IEEE papers
+  <details><summary>past work</summary>happy to share earlier prototypes and coursework builds on request</details>
+- mail me - [pururajdhama2004@gmail.com](mailto:pururajdhama2004@gmail.com)
+
+</td>
+</tr>
+</table>
+
+<samp><a href="https://dhama.tech/">website</a> · <a href="https://www.linkedin.com/in/puru-raj-dhama-1d1616/">linkedin</a> · <a href="https://leetcode.com/u/Raj_0106/">leetcode</a> · <a href="https://x.com/Dhama_16/">x</a> · <a href="mailto:pururajdhama2004@gmail.com">mail</a></samp>
+
+<br>
 
 ## About
 
-I'm a Computer Science student passionate about building intelligent systems that combine **Cloud Computing**, **Machine Learning**, and **Backend Engineering**.
+Computer Science student building at the intersection of **Cloud**, **Machine Learning**, and **Backend Engineering**.
+I like shipping scalable systems, experimenting with AI agents, and turning research into things that actually run in production.
 
-I enjoy creating scalable applications, experimenting with AI agents, and shipping projects that solve real-world problems.
-
----
+<br>
 
 ## Featured Projects
 
-### 🚀 Companion
-Gamified accountability platform built with **Next.js**, **Spring Boot**, **Azure**, and **PostgreSQL**.
+**🚀 Companion**
+Gamified accountability platform — **Next.js**, **Spring Boot**, **Azure**, **PostgreSQL**.
+🔗 [github.com/heyitspuru/Companion](https://github.com/heyitspuru/Companion)
 
-🔗 https://github.com/heyitspuru/Companion
-
----
-
-### ☁ Azure Cloud Labs
+**☁️ Azure Cloud Labs**
 Hands-on Azure implementations covering networking, compute, storage, identity, and security.
+🔗 [github.com/heyitspuru/AZURE-CLOUD](https://github.com/heyitspuru/AZURE-CLOUD)
 
-🔗 https://github.com/heyitspuru/AZURE-CLOUD
-
----
-
-### 📝 Yapo
+**📝 Yapo**
 Serverless blogging platform powered by **AWS Lambda**, **Cognito**, **Polly**, and **Translate**.
+🔗 [github.com/heyitspuru/Yapo](https://github.com/heyitspuru/Yapo)
 
-🔗 https://github.com/heyitspuru/Yapo
+**🧠 Bottle Fill Classification**
+CNN + MobileNetV2 image classifier hitting ~98% accuracy. Published with IEEE.
+🔗 [github.com/heyitspuru/Bottlelineclassification](https://github.com/heyitspuru/Bottlelineclassification)
 
----
+**🛡️ Malware Detection**
+Static malware classifier using **XGBoost**, wrapped in an interactive Streamlit app.
+🔗 [github.com/heyitspuru/malware-detection](https://github.com/heyitspuru/malware-detection)
 
-### 🧠 Bottle Fill Classification
-CNN + MobileNetV2 image classifier achieving nearly **98% accuracy**.
+<details>
+<summary>more / older builds</summary>
+<br>
+happy to share earlier prototypes and coursework projects on request — just reach out via mail or LinkedIn.
+</details>
 
-Published with IEEE.
-
-🔗 https://github.com/heyitspuru/Bottlelineclassification
-
----
-
-### 🛡 Malware Detection
-Static malware classifier using **XGBoost** with an interactive Streamlit application.
-
-🔗 https://github.com/heyitspuru/malware-detection
-
----
+<br>
 
 ## Tech Stack
 
 ```text
-Cloud
-AWS • Azure
-
-Languages
-Java • Python • TypeScript
-
-Backend
-Spring Boot • PostgreSQL
-
-Machine Learning
-PyTorch • TensorFlow • XGBoost • Streamlit
-
-Frontend
-Next.js • TailwindCSS
+Cloud        AWS · Azure
+Languages    Java · Python · TypeScript
+Backend      Spring Boot · PostgreSQL
+ML           PyTorch · TensorFlow · XGBoost · Streamlit
+Frontend     Next.js · TailwindCSS
 ```
-
----
-
-## Publications
-
-📄 **Automated Detection of Bottle Fill Levels Using CNN and MobileNetV2**
-
-IEEE 2025
-
-https://ieeexplore.ieee.org/document/11346145
 
 <br>
 
-📄 **Serverless Deployment of an Ensemble ML Model for Diabetes Prediction**
+## Publications
 
-IEEE 2025
+📄 **Automated Detection of Bottle Fill Levels Using CNN and MobileNetV2** — IEEE 2025
+[ieeexplore.ieee.org/document/11346145](https://ieeexplore.ieee.org/document/11346145)
 
-https://ieeexplore.ieee.org/document/11386619
+📄 **Serverless Deployment of an Ensemble ML Model for Diabetes Prediction** — IEEE 2025
+[ieeexplore.ieee.org/document/11386619](https://ieeexplore.ieee.org/document/11386619)
 
----
+<br>
 
-## GitHub Analytics
-
+<details>
+<summary><b>GitHub Analytics</b></summary>
+<br>
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=heyitspuru&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d8d8d8&icon_color=f47c31"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitspuru&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d8d8d8"/>
 </p>
-
 <p align="center">
 <img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=heyitspuru&hide_border=true&background=00000000&stroke=00000000&ring=F47C31&fire=F6B347&currStreakLabel=FFFFFF"/>
 </p>
-
----
-
-<p align="center">
-</p>
+</details>
