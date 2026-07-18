@@ -27,11 +27,13 @@
 ## Tech Stack
 
 ```text
-Cloud        AWS · Azure
-Languages    Java · Python · TypeScript
-Backend      Spring Boot · PostgreSQL
-ML           PyTorch · TensorFlow · XGBoost · Streamlit
-Frontend     Next.js · TailwindCSS
+Agentic AI   Context Eng · Prompt Eng · Harness · MCP · LLM Eval · Guardrails · RAG · LangGraph
+AI tools     Claude Code · Cursor · AntiGravity · SuperPowers · Plugins · OpenClaw · Codex
+Cloud        AWS · Azure · GCP
+Languages    Java · Python 
+Backend      Spring Boot · PostgreSQL · API · FASTAPI
+ML/DL        PyTorch · TensorFlow · CNN · Computer Vision · Data Augmentation
+Frontend     Next.js · TailwindCSS · React.js
 ```
 
 <br>
