@@ -52,10 +52,19 @@ Frontend     Next.js · TailwindCSS · React.js
 <summary><b>GitHub Analytics</b></summary>
 <br>
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=heyitspuru&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d8d8d8&icon_color=f47c31"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitspuru&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=d8d8d8"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=heyitspuru&show_icons=true&hide_border=true&theme=dark&bg_color=00000000&icon_color=f47c31" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=heyitspuru&show_icons=true&hide_border=true&theme=default&bg_color=00000000&icon_color=f47c31" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitspuru&layout=compact&hide_border=true&theme=dark&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heyitspuru&layout=compact&hide_border=true&theme=default&bg_color=00000000" />
+</picture>
 </p>
 <p align="center">
-<img width="72%" src="https://github-readme-streak-stats.herokuapp.com?user=heyitspuru&hide_border=true&background=00000000&stroke=00000000&ring=F47C31&fire=F6B347&currStreakLabel=FFFFFF"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=heyitspuru&hide_border=true&background=00000000&theme=dark&ring=F47C31&fire=F6B347" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=heyitspuru&hide_border=true&background=00000000&theme=default&ring=F47C31&fire=F6B347" />
+</picture>
 </p>
 </details>
